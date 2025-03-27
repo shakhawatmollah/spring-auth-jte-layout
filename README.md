@@ -31,8 +31,8 @@ A secure Spring Boot application with JWT authentication, featuring registration
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shakhawatmollah/spring_auth_jte_layout.git
-   cd spring_auth_jte_layout
+   git clone git@github.com:shakhawatmollah/spring-auth-jte-layout.git
+   cd spring-auth-jte-layout
    ```
 
 2. Build the project:
